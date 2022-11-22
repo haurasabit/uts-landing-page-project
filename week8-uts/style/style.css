@@ -1,0 +1,205 @@
+/* HEAD */
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.meta{
+    display: flex;
+    width: 100%;
+    background-color: #F7F4FF;
+}
+
+.pic-logo{
+    width: 180px;
+    margin-top: 5px;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.mghead{
+    margin-left: 1cm;
+    margin-top: 80px;
+    font: size 500em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    margin-top: 90px;
+    margin-left: 20px;
+    font-style: italic ;
+    color: #46297f;
+}
+
+.acc{
+    width: 50px;
+    height: 50px;
+    margin-left: 530px;
+    margin-top: 80px;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    margin-left: 15px;
+    margin-top: 85px;
+}
+
+/* NAVIGATION BAR */
+nav{
+    background-color: #9E85D1; 
+    padding: 8px; 
+
+}
+
+
+/* ARTIKEL */
+.artikel-1{
+    margin-left: 100px;
+    margin-top: 100px;
+    display: flex;
+    
+}
+
+.pic1{
+    width: 500px;
+    height: 500px;
+    margin-right: 60px;
+    margin-top: -50px;
+}
+
+.artikel-2{
+    height: 330px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 120px;
+    display: flex;
+    background-color: #F7F4FF;
+}
+
+.pic2{
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    margin-top: -75px;
+}
+
+.artikel-3{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.otp{
+    display:flex; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* TRAINING SECTION */
+.fitness{
+    width: 280px;
+    height: 500px;
+    background-color: #dcd3ef; 
+    border: solid #46297f 1px;
+    padding-bottom: 80px;
+    padding-top: 10px;
+    margin: auto;
+}
+
+.program{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.picfitness{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+hr{
+    color:violet;
+}
+
+/* FEE SECTION */
+.fee{
+    display: flex;
+    position: relative;
+}
+
+.table{
+    border: #46297f;
+    background-color:#F7F4FF;   
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
+
+}
+
+#th{
+    background-color: #9E85D1;
+    column-span: all;
+}
+
+#td{
+    background-color: #dcd3ef;
+}
+
+iframe{
+    width: 450px;
+    height: 250px;
+    border: none;
+    justify-content: center;
+    margin: auto;
+}
+
+#video{
+    margin: auto;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+footer{
+    background-color: #2a1a4b;
+    height: 130px;
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-bottom: 120px;
+    color: #dcd3ef;
+}
+
+footer div h3{
+    color: #dcd3ef;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer img{
+    width: 15px;
+    margin-right: 8px;
+}
+
+#newsletter{
+    margin-left: 5em;
+    justify-content: right;
+}
+
+.credit{
+    text-align: center; 
+    margin-bottom:auto; 
+    background-color: #2a1a4b; 
+    padding: 2px;
+    color: #dcd3ef;
+}
+

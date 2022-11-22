@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 4rem;
+}
+
+/*  */
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 0.5rem;
+    align-items: center;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+}
+
+nav ul li{
+    margin: 00.5rem;
+}
