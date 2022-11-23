@@ -15,7 +15,7 @@ header, article, nav, aside, footer{
 
 header, footer{
     height: 20vh;
-    width: 70vw;
+    width: 81vw;
     background-color: khaki;
 }
 
@@ -40,5 +40,5 @@ article{
 
 nav{
     background-color: rgb(124, 181, 231);
-    flex: 0 0 30vw;
+    flex: 0 0 15vw;
 }
